@@ -1,1 +1,1 @@
-words = text.split()
+print("Reversed words:", reversed_words)
