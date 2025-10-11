@@ -53,20 +53,13 @@
     #    print prime number jo 3 se 10 k beach me ho
   
 
-for i in range(3,10):
-    flag=0
-    for j in range(2,i):
-        if(i%j==0):
-            flag=1
-            break
-        if(flag==0):
-            print(i)
-        else:
-            print("not prime")
-            break
+# even number  sum print 
 
-
-
+# sum=0
+# for i in range(4,20):
+#     if(i%2==0):
+#         sum=sum+i
+# print("sum of even number",sum)
            
         
 
@@ -92,4 +85,27 @@ for i in range(3,10):
 
     
        
+        # palindrone
+num=121
+rev=0
+temp=num
+while num>0:
+    dig=num%10
+    rev=rev*10+dig
+    num=num//10
+if(temp==rev):
+    print("palindrone")
+
         
+else:
+    print("not palinfdrone")
+        
+ 
+
+           
+
+     
+
+        
+
+            
