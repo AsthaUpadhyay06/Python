@@ -1,3 +1,6 @@
-import datetime
-now = datetime.datetime.now()
-print("Current Date and Time:", now)
+def printname(name):
+    """Prints the given name."""
+    print("hello"+ str(name))
+
+printname("Alice")
+print(printname.__doc__)
