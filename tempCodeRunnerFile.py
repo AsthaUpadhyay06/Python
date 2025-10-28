@@ -1,1 +1,1 @@
-karne se pehle uske methods or attributes dekhne ke liye dir() function ka
+print quotient and remainder separately
