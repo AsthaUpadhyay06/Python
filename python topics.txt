@@ -1,0 +1,20 @@
+ 28/10/25
+
+two types functions 
+1. built-in
+2.user-defined
+absolute()
+all()
+dir()
+divmod()
+enumerate()
+filter()
+isinstance()
+map()
+reduce()
+function argument
+key arguments
+arbitary constant
+ 29/10/2025.
+ recursion
+  lambda
