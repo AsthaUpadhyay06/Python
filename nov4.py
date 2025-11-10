@@ -130,7 +130,7 @@ print(a.index("y")) #direct
 
 
 
-
+1
 
 
 
