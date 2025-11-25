@@ -71,3 +71,26 @@
 t = (3,4,56,78,3,3,3,3,4)
 t.count(3)
 print(t.count(3))   # 3 kitni baar aya
+
+
+
+# print(t.index(56))
+
+#tuple membershipt=
+t=(1,2,3,4,5,6)
+print(1 in t) # true or false
+
+#length
+print(len(t))
+
+
+#tuple sort
+t=(4,5,6,78,43,24,54)
+new=sorted((t))
+print(new)
+
+#get the largest and minimum element in a tuple
+print(max(t))
+print(min(t))
+#get sum of tuple
+print(sum(t))
