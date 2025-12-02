@@ -1,1 +1,5 @@
-print(b)
+a=np.ones((3,5))
+print(a)
+a=np.zeros((3,5))
+print(a)
+print(a.dtype)
