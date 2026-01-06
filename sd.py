@@ -10,3 +10,4 @@ for i in range(n):
         val = val * (i - j) // (j + 1)  
     
     print() 
+print("dd")
