@@ -16,6 +16,7 @@ for i in range(n):
 
 
     s = a + b
+ddd
 
     
     result = reverse_number(s)
