@@ -7,4 +7,5 @@ n=10  #number of terms
 nthTern=a+(n-1)*d
 print("Nth term is:",nthTern)
 sum=n/2*(2*a+(n-1)*d)
+print()
 print("Sum of nth term is:",sum)
