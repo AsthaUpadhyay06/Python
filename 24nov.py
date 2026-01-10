@@ -88,6 +88,7 @@ print(len(t))
 t=(4,5,6,78,43,24,54)
 new=sorted((t))
 print(new)
+print()
 
 #get the largest and minimum element in a tuple
 print(max(t))
