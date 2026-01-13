@@ -13,3 +13,4 @@ area = side ** 2
 print(f"Arc Length = {length:.2f} cm")
 print(f"Side of Square = {side:.2f} cm")
 print(f"Area of Square = {area:.2f} cm²")
+print()
