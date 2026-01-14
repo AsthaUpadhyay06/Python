@@ -10,3 +10,5 @@ for i in range(T):
     lcm = (X * Y) // gcd
 
     print(gcd, lcm)
+    print()
+    
