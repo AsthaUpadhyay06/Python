@@ -1,5 +1,6 @@
 amount = int(input("Enter total amount: "))
 denom = int(input("Enter starting denomination: "))
+print()
 
 match denom:
     case 100:
